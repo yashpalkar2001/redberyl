@@ -1,5 +1,3 @@
-import "./App.css";
-
 import { BrowserRouter } from "react-router-dom";
 
 import Root from "../src/router/Root";
